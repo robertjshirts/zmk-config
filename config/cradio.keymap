@@ -56,10 +56,10 @@
             layers = <1 2>;
         };
 
-        colemak {
+        colemak_toggle {
             bindings = <&tog 1>;
             key-positions = <20 29>;
-            layers = <0 3>;
+            layers = <0 3 1 2>;
         };
     };
 
